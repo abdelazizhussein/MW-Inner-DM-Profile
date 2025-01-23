@@ -59,10 +59,5 @@ Each directory contains specific instructions and example scripts in its `README
 For detailed explanations of the methodology and code, refer to the comments in the scripts and the accompanying documentation.
 
 
----
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 
