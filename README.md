@@ -23,7 +23,6 @@ pip install .
 ```
 
 This will automatically install the following packages:
-[![astropy](http://img.shields.io/badge/powered%20by-AstroPy-orange.svg?style=flat)](http://www.astropy.org/)
 
 - `astropy`
 - `numpy`
