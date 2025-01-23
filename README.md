@@ -56,7 +56,7 @@ This will automatically install the following packages:
 ## Usage
 
 Each directory contains example scripts. 
-For detailed explanations of the methodology and code, refer to the comments in the scripts and the accompanying documentation.
+For detailed explanations of the methodology and code, refer to the comments in the scripts.
 
 
 
