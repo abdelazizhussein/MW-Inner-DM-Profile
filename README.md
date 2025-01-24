@@ -59,5 +59,9 @@ Each directory contains example scripts.
 For detailed explanations of the methodology and code, refer to the comments in the scripts.
 
 
+## Acknowledging or citing this code base
+
+We kindly request that you cite our paper if you use any data or code from this repository in your work.
+
 
 
