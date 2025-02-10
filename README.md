@@ -1,6 +1,6 @@
 # Theoretical Predictions for the Inner Dark Matter Distribution in the Milky Way Informed by Simulations
 
-This repository contains code and resources to analyze and visualize results related to the calculations outlined in (Hussein et al 2025). The repository is organized into four main directories, each focusing on a specific aspect of the analysis. Below, you'll find a description of the directories, their purpose, and installation instructions for using this project.
+This repository contains code and resources to analyze and visualize results related to the calculations outlined in [(Hussein et al 2025)](https://arxiv.org/abs/2501.14868). The repository is organized into four main directories, each focusing on a specific aspect of the analysis. Below, you'll find a description of the directories, their purpose, and installation instructions for using this project.
 
 ---
 ## Installation
