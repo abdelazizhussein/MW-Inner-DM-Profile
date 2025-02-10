@@ -61,7 +61,7 @@ For detailed explanations of the methodology and code, refer to the comments in 
 
 ## Acknowledging or citing this code base
 
-We kindly request that you cite our paper if you use any data or code from this repository in your work.
+We kindly request that you cite our [paper](https://arxiv.org/abs/2501.14868) if you use any data or code from this repository in your work.
 
 
 
